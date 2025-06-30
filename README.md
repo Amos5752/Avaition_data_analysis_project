@@ -51,9 +51,12 @@ The following charts were used to support findings. Full interactive dashboard a
 
 ### Key Findings:
 
-1. **Over 40% of fatal crashes occurred in clear weather** — indicating that human error or technical failure, not visibility, is often the root cause.
-2. **Smaller aircraft (1–2 engines)** experienced higher injury rates — pointing to structural vulnerabilities or less advanced safety systems.
-3. **Accidents spike during summer months**, especially June–August — highlighting seasonal travel and maintenance stress.
+*High Number of Uninjured Passengers in Many Incidents
+Insight:
+*In many incidents, no injuries are reported despite aircraft damage.
+Interpretation:
+Suggests good safety procedures or aircraft design.
+Track aircraft types with high survival rates to inform fleet decisions.
 
 ### 🔁 Business Impact:
 
