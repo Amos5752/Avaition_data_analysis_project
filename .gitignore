@@ -1,1 +1,20 @@
-
+# 🐍 Python standard ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.ipynb_checkpoints/
+*.sqlite3
+*.log
+*.pot
+*.mo
+Data/
+presentation/
