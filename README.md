@@ -1,13 +1,13 @@
-# ✈️ Aviation Accident Analysis
+#  Aviation Accident Analysis
 
-## 📌 Overview
+##  Overview
 
 This project analyzes aviation accident data to identify patterns, uncover safety risks, and generate actionable recommendations for aviation stakeholders. 
 Using Python (Google Colab) and Tableau, I cleaned, explored, and visualized aviation incident data to support real-world decision-making.
 
 ---
 
-## 🧠 Business Understanding
+##  Business Understanding
 
 **Stakeholders**:
 - Aviation safety managers and policy teams
