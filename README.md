@@ -42,8 +42,7 @@ Using Python (Google Colab) and Tableau, I cleaned, explored, and visualized avi
 
 The following charts were used to support findings. Full interactive dashboard available on Tableau.
 
-
-🔗 [Interactive Tableau Dashboard](https://public.tableau.com/views/Avifinal/Dashboard1)
+🔗 https://public.tableau.com/shared/6KDF5MXBH?:display_count=n&:origin=viz_share_link
 
 ---
 
