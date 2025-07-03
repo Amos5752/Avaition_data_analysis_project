@@ -57,7 +57,7 @@ Interpretation:
 Suggests good safety procedures or aircraft design.
 Track aircraft types with high survival rates to inform fleet decisions.
 
-### 🔁 Business Impact:
+###  Business Impact:
 
 - These findings support scheduling **pre-summer inspections**, enhancing **pilot retraining**, and reviewing **aircraft type-based risk**.
 - The dataset also helps prioritize **high-risk regions** for targeted safety campaigns.
